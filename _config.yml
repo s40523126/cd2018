@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://cd2018.com
-root: /
+url: http://s40523125.github.io/cd2018
+root: /cd2018/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -79,8 +79,9 @@ theme: vexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/s40523125/cd2018.git
-  branch: gh-pages
+  repo: https://github.com/s40523125/cd2018
+  branch: [gh-pages]
+  message: "Blog-update"
 
 # Admin
 admin:
