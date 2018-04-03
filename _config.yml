@@ -85,8 +85,8 @@ deploy:
 
 # Admin
 admin:
-    name: 40523125
-    password: asd861026
-    secret: hey hexo
+    name: qwe
+    password: asd
+    secret: hexo hey
     expire: 60*1
     # cors: http://localhost:3000
