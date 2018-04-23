@@ -17,7 +17,7 @@
 ---
 
 #### 是否可以完成至少兩個週期的循環運動 ?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zzGsMgNdeEY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://www.youtube.com/embed/zzGsMgNdeEY
 
 #### 如何進行協同設計
 在這學期的協同課程中，我們第七小組所採用的協同方式是預先分配工作內容，像是負責整理目前所需程式的必要語法和相關應用資訊的，還有將上學期的機構做運動分析和將各部分零件佈圖成工程圖來標示上各個重要尺寸，還有整理以上資訊後將各週的課程過程記錄下來，整理心得和參考資料並且架設網誌將內容一併放置上網誌來進行進度追蹤。
@@ -29,7 +29,19 @@
 
 #### 提供各組鋼球運動系統的細部零件材料表、各零件工程圖與組立檔
 
+* 組立檔：[Onshape](https://cad.onshape.com/documents/014b70338180f7ab98b694d9/w/40f8b5e690a66afc38dd06ad/e/cdfa5a143eee92d8d61d0054)
+* 機構各零組件：https://github.com/s40523125/cd2018/tree/master/Folder/components draw/others
+
+名稱|	數量
+---|---
+主體|	1
+凸輪|	1
+升降板_1 - 7|	7
+檔板滑道|	1
+
+* 機構各工程圖：https://github.com/s40523125/cd2018/tree/master/Folder/components draw/dwg
+
 #### 所有組員的貢獻請各自使用學號登記下的 cd2018 倉儲展示
-40523125：編寫Gitbook、編輯網誌、整理倉儲資料
-40523126：查詢資料、整理程式資料、編寫Gitbook
-40523127：機構運動分析、繪製工程圖、編寫Gitbook
+* 40523125：編寫Gitbook、編輯網誌、整理倉儲資料
+* 40523126：編寫Gitbook、查詢資料、整理程式資料
+* 40523127：編寫Gitbook、機構運動分析、繪製工程圖
